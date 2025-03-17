@@ -1,22 +1,66 @@
-[![MasterHead](https://camo.githubusercontent.com/8bf6f6d78abc81fcf9c49f10649423e73ea44bc248e83aaae8759d401c829a84/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966)](https://rishavchanda.io)
-
+![MasterHead](https://camo.githubusercontent.com/8bf6f6d78abc81fcf9c49f10649423e73ea44bc248e83aaae8759d401c829a84/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966)
 
 <h1 align="center">Hi 👋, I'm Harshak Parmar</h1>
-<h3 align="center">Versatile professional experienced in diverse tech stacks through college projects and internships. Passionate about Blockchain, Data Engineering and NLP</h3>
-
-
+<h3 align="center">Data Scientist passionate about Machine Learning, NLP, and building efficient, scalable software solutions</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hpamdeoxys&label=Profile%20views&color=0e75b6&style=flat" alt="hpamdeoxys" /> </p>
 
 - 🌱 I’m currently learning **PySpark, React, MongoDB, GraphQL**
 
-- 👨‍💻 All of my projects are available at [https://kaleidoscopic-melomakarona-50c596.netlify.app/](https://kaleidoscopic-melomakarona-50c596.netlify.app/)
+- 👨‍💻 All of my projects are available at [Portfolio Website](https://kaleidoscopic-melomakarona-50c596.netlify.app/)
 
-- 💬 Ask me about **Ethereum Smart Contracts, Data Engineering, and NLP**
+- 💬 Ask me about **Data Science, Machine Learning, NLP, and building data-driven software solutions**
 
 - 📫 How to reach me **parmarharshak@gmail.com**
 
 - ⚡ Fun fact **I love collecting playing cards, especially WWE and Pokemon**
+
+---
+
+### 🧠 Industry Experience:
+- **Data Scientist | ADT Security** — Built BigQuery-Tableau pipelines, identified key KPIs saving $300K annually.
+- **SWE Intern | NetApp** — Engineered software solutions and optimized workflows.
+- **NLP Researcher | UF Health** — Fine-tuned GPT models to extract Social Determinants of Health.
+
+---
+
+### 🌟 What I'm Working On
+- 🚀 Fine-tuning LLMs (GPT-4, Gemma 7B) for clinical text analysis
+- 📊 Building data pipelines & interactive dashboards
+- 💡 Crafting production-level ML solutions with clean, efficient code
+
+---
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/harshak-parmar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harshak-parmar" height="30" width="40" /></a>
+<a href="https://medium.com/@harshakparmar12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@harshakparmar12" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/hpam_deoxys" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="hpam_deoxys" height="30" width="40" /></a>
+</p>
+
+---
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
+<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
+<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
+<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
+</p>
+
+---
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hpamdeoxys&show_icons=true&locale=en&layout=compact" alt="hpamdeoxys" /></p>
+
+### ✨ Goal: Drive innovation through data, software, and machine learning solutions!
+
+---
+
+_Check out some of my projects below ⬇️:_
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
