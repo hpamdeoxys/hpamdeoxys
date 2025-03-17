@@ -24,7 +24,7 @@
 - <img src="https://apn-portal.my.salesforce.com/servlet/servlet.ImageServer?id=0150h000003yCMDAA2&oid=00DE0000000c48tMAA" alt="Quantiphi Logo" width="20"/> **Data Engineer | Quantiphi**  
   Developed ETL pipelines, data transformation solutions, and ML integrations.  
 
-- <img src="https://mma.prnewswire.com/media/959906/ITC_Infotech_Logo.jpg?p=twitter" alt="ITC Infotech Logo" width="20"/> **Software Engineer Intern | ITC Infotech**  
+- <img src="https://mma.prnewswire.com/media/959906/ITC_Infotech_Logo.jpg?p=twitter" alt="ITC Infotech Logo" width="20"/> **AI Software Developer Intern | ITC Infotech**  
   Built ML-based sentiment analysis models, improving customer retention and cutting data costs by 25%.  
 
 
