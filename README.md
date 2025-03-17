@@ -25,7 +25,8 @@
   Developed ETL pipelines, data transformation solutions, and ML integrations.  
 
 - <img src="https://mma.prnewswire.com/media/959906/ITC_Infotech_Logo.jpg?p=twitter" alt="ITC Infotech Logo" width="20"/> **Software Engineer Intern | ITC Infotech**  
-  Built scalable backend services and improved system performance.  
+  Built ML-based sentiment analysis models, improving customer retention and cutting data costs by 25%.  
+
  
 
 
