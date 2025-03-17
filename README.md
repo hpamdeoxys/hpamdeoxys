@@ -26,10 +26,15 @@
 - <img src="https://mma.prnewswire.com/media/959906/ITC_Infotech_Logo.jpg?p=twitter" alt="ITC Infotech Logo" width="20"/> **Software Engineer Intern | ITC Infotech**  
   Built ML-based sentiment analysis models, improving customer retention and cutting data costs by 25%.  
 
- 
-
 
 ---
+
+## 🏅 Achievements:
+
+- 🎓 **Microsoft Research Scholar**  
+  One amongst 15 students selected out of 9,911 applicants. [Link](https://www.csa.iisc.ac.in/event/narendra-summer-internsh)
+
+
 
 ### 🌟 What I'm Working On
 - 🚀 Fine-tuning LLMs (GPT-4, Gemma 7B) for clinical text analysis
