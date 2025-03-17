@@ -16,11 +16,17 @@
 - ⚡ Fun fact **I love collecting playing cards, especially WWE and Pokemon**
 
 ---
+## 🧠 Industry Experience:
 
-### 🧠 Industry Experience:
-- **Data Scientist | ADT Security** — Built BigQuery-Tableau pipelines, identified key KPIs saving $300K annually.
-- **SWE Intern | NetApp** — Engineered software solutions and optimized workflows.
-- **NLP Researcher | UF Health** — Fine-tuned GPT models to extract Social Determinants of Health.
+- <img src="https://upload.wikimedia.org/wikipedia/commons/4/49/ADT_logo.svg" alt="ADT Logo" width="20"/> **Data Scientist | ADT Security**  
+  Built BigQuery-Tableau pipelines, identified key KPIs saving $300K annually.  
+
+- <img src="https://www.quantiphi.com/wp-content/uploads/2021/03/quantiphi-logo.svg" alt="Quantiphi Logo" width="20"/> **Data Engineer | Quantiphi**  
+  Developed ETL pipelines, data transformation solutions, and ML integrations.  
+
+- <img src="https://upload.wikimedia.org/wikipedia/en/6/69/ITC_Infotech_Logo.png" alt="ITC Infotech Logo" width="20"/> **Software Engineer Intern | ITC Infotech**  
+  Built scalable backend services and improved system performance.  
+
 
 ---
 
