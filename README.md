@@ -18,7 +18,7 @@
 ---
 ## 🧠 Industry Experience:
 
-- <img src="https://upload.wikimedia.org/wikipedia/commons/4/49/ADT_logo.svg" alt="ADT Logo" width="20"/> **Data Scientist | ADT Security**  
+- <img src="[https://upload.wikimedia.org/wikipedia/commons/4/49/ADT_logo.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FADT_Inc.&psig=AOvVaw3T7TVeWcJT7y4hfFeWgX8Z&ust=1742315081331000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKCBjc7DkYwDFQAAAAAdAAAAABAE)" alt="ADT Logo" width="20"/> **Data Scientist | ADT Security**  
   Built BigQuery-Tableau pipelines, identified key KPIs saving $300K annually.  
 
 - <img src="https://www.quantiphi.com/wp-content/uploads/2021/03/quantiphi-logo.svg" alt="Quantiphi Logo" width="20"/> **Data Engineer | Quantiphi**  
