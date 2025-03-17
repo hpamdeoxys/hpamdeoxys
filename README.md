@@ -5,7 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hpamdeoxys&label=Profile%20views&color=0e75b6&style=flat" alt="hpamdeoxys" /> </p>
 
-- 🌱 I’m currently learning **PySpark, React, MongoDB, GraphQL**
 
 - 👨‍💻 All of my projects are available at [Portfolio Website](https://kaleidoscopic-melomakarona-50c596.netlify.app/)
 
